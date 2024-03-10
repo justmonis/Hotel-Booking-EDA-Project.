@@ -1,6 +1,6 @@
 <h1 align="center">Hotel Booking EDA Project</h1>
 
-![Local GIF](relative/path/to/your.gif)
+![Local GIF](DT_G82_Hotel-Service-Animated-GIF-Icon-pack-1.gif)
 
 <h3 align="Left">
    
