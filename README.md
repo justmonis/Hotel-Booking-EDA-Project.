@@ -29,18 +29,3 @@ The Hotel Bookings Analysis project delves into a real-world dataset spanning 20
    - Conclude with a heatmap visualizing correlations among dataset variables.
 
 By following these steps, the Hotel Bookings Analysis project endeavors to unveil crucial insights into hotel booking trends, guest demographics, and influential factors in the hospitality sector.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justmonis&label=Profile%20views&color=0e75b6&style=flat" alt="justmonis" /> </p>
-
-- 🔭 I’m currently working on **FMCG supply chain**
-
-- 👯 I’m looking to collaborate on **Data Analyst Projects**
-
-- 🤝 I’m looking for help with **Data Analysis**
-
-- 📫 How to reach me **moniselman152@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/monis-ahmad-673ba21a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/monis-ahmad-673ba21a3" height="30" width="40" /></a>
-</p>
