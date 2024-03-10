@@ -1,5 +1,6 @@
 <h1 align="center">Hotel Booking EDA Project</h1>
-<h3 align="Left">Problem Statement:
+<h3 align="Left">
+Problem Statement:
 Ever contemplated the best time to book a hotel room or the optimal stay length for the best rates? What if you could predict if a hotel might receive an unusual number of special requests? Dive into this hotel booking dataset! It includes booking details for city and resort hotels, devoid of personal identifiers. Explore to uncover booking dynamics.
 
 Project Summary:
