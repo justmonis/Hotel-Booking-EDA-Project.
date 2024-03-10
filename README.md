@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Animated GIF Display</h1>
-    <img src="your-gif-url-here.gif" alt="Animated GIF">
+    <img src="https://discovertemplate.com/design-assets/gifs/flat-gifs/hotel-service-animated-gif-icon-pack-keynote/" alt="Animated GIF">
 </body>
 </html>
 
