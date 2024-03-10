@@ -1,6 +1,6 @@
 <h1 align="center">Hotel Booking EDA Project</h1>
 
-![Alt Text](https://discovertemplate.com/design-assets/gifs/flat-gifs/hotel-service-animated-gif-icon-pack-keynote/)
+![Local GIF](relative/path/to/your.gif)
 
 <h3 align="Left">
    
