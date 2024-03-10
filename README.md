@@ -1,16 +1,6 @@
 <h1 align="center">Hotel Booking EDA Project</h1>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF Display</title>
-</head>
-<body>
-    <h1>Animated GIF Display</h1>
-    <img src="https://discovertemplate.com/design-assets/gifs/flat-gifs/hotel-service-animated-gif-icon-pack-keynote/" alt="Animated GIF">
-</body>
-</html>
+![Alt Text](https://discovertemplate.com/design-assets/gifs/flat-gifs/hotel-service-animated-gif-icon-pack-keynote/)
 
 <h3 align="Left">
    
